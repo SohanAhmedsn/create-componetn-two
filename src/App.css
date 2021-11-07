@@ -24,6 +24,14 @@
   color: white;
 }
 
+.player {
+  background-color: floralwhite;
+  color: fuchsia;
+  border: 3px solid red;
+  border-radius: 5px;
+  margin: 20px;
+}
+
 .App-link {
   color: #61dafb;
 }
