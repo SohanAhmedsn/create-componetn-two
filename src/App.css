@@ -25,10 +25,10 @@
 }
 
 .player {
-  background-color: floralwhite;
-  color: fuchsia;
+  background-color: #fafafa;
+  color: black;
   border: 3px solid red;
-  border-radius: 5px;
+  border-radius: 20px;
   margin: 20px;
 }
 
